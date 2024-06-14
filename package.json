@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "nls-2024",
+  "workspaces": {
+    "packages": [
+      "nls-api",
+      "nls-bll",
+      "nls-web"
+    ]
+  },
+  "scripts": {},
+  "dependencies": {}
+}
